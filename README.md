@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey, I'm Kayde 👋
 
-<!--
-**KaydeD/KaydeD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer currently completing the AI-Powered Advanced Full Stack Developer Diploma at Mission Ready HQ in New Zealand. I'm passionate about building things for the web — from interactive games to full-stack applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Frontend:** React, JavaScript ES6+, HTML5, CSS3, CSS Modules
+**Backend:** Node.js, Express, REST API Design & Development
+**Database:** MongoDB with Mongoose, MySQL
+**Tools:** Git & GitHub, Postman, VS Code, npm, Jira
+
+---
+
+## 🚀 Projects
+
+- 🎮 **[Rock Clicker](https://github.com/KaydeD/RockClicker)** — A browser-based clicker game
+- 🤖 **[Chatbot Project](https://github.com/KaydeD/Chatbot-Project)** — A JavaScript-powered chatbot
+- 🌐 **[My Static Webpage](https://github.com/KaydeD/My-Static-Webpage)** — My first webpage
+- 💼 **[Portfolio](https://github.com/KaydeD/Portfolio)** — Personal portfolio site
+
+---
+
+## 🌱 Currently Learning
+
+- Full stack application development
+- Agile methodologies and team-based workflows
+- AI integration in web development
+
+---
+
+## 📬 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kayde-denton-31395a380/)
+- 🐙 [GitHub](https://github.com/KaydeD)
+
+---
+
+<div align="center">
+  <em>Always building. Always learning.</em>
+</div>
