@@ -7,8 +7,11 @@ I'm a developer currently completing the AI-Powered Advanced Full Stack Develope
 ## 🛠 Tech Stack
 
 **Frontend:** React, JavaScript ES6+, HTML5, CSS3, CSS Modules
+
 **Backend:** Node.js, Express, REST API Design & Development
+
 **Database:** MongoDB with Mongoose, MySQL
+
 **Tools:** Git & GitHub, Postman, VS Code, npm, Jira
 
 ---
