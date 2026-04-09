@@ -1,72 +1,52 @@
-👋 Hey, I'm Kayde
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Games+%26+Web+Apps;Always+Learning+Something+New" /> </p>
+# 👋 Hey, I'm Kayde
 
-🚀 Full Stack Developer (in training) @ Mission Ready HQ, NZ
-💻 I build web apps, games, and full-stack projects
-🎯 Working towards becoming a high-level developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Games+%26+Web+Apps" />
+</p>
 
-🧠 About Me
-⚡ I pick things up fast — if I see it once, I can use it
-🛠 I enjoy building real, working projects (not just tutorials)
-🎮 Into game dev + interactive systems
-🔥 Always trying to improve and stay consistent
-🧰 Tech Stack
-🎨 Frontend
+---
 
-Tech I use:
+## 🚀 About Me
 
-⚛️ React
-🟨 JavaScript (ES6+)
-🌐 HTML5
-🎭 CSS3 / CSS Modules
+- ⚡ Fast learner — if I see it once, I can use it  
+- 🛠 I build real projects, not just tutorials  
+- 🎮 Into game systems + interactive apps  
+- 🎯 Goal: Become a high-level full stack developer  
 
+---
 
+## 🧰 Tech Stack
 
+### 🎨 Frontend
+React • JavaScript (ES6+) • HTML5 • CSS3 / CSS Modules  
 
+### ⚙️ Backend
+Node.js • Express • REST APIs  
 
+### 🗄️ Database
+MongoDB (Mongoose) • MySQL  
 
+### 🧪 Tools
+Git • GitHub • Postman • VS Code • npm • Jira  
 
-
-⚙️ Backend
-
-Tech I use:
-
-🟩 Node.js
-🚂 Express
-🔗 REST API development
+---
 
 
+## 🚀 Projects
 
 
-🗄️ Database
+- 🌱 Full Stack App — React + Node + MongoDB  
+- 🎮 Game System — mechanics, upgrades, performance  
 
-Tech I use:
+---
 
-🍃 MongoDB (Mongoose)
-🐬 MySQL
+## 🌐 Connect
 
+- 💼 LinkedIn: https://www.linkedin.com/in/kayde-denton-31395a380/  
+- 🐙 GitHub: https://github.com/KaydeD  
 
+---
 
-
-🧪 Tools & Workflow
-
-What I work with:
-
-🧷 Git & GitHub
-📬 Postman
-💻 VS Code
-📦 npm
-📋 Jira
-
-📚 Currently Learning
-🤖 AI integration in web apps
-⚡ Advanced full stack architecture
-🤝 Agile + real-world workflows
-🌐 Connect
-💼 LinkedIn
-🐙 GitHub
-<div align="center">
-
-🔥 Consistency > Motivation 🔥
-
-</div>
+<p align="center">
+  🔥 <b>Consistency beats everything</b>
+</p>
