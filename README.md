@@ -1,36 +1,72 @@
-# Hey, I'm Kayde 👋
+👋 Hey, I'm Kayde
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Games+%26+Web+Apps;Always+Learning+Something+New" /> </p>
 
-I'm a developer currently completing the AI-Powered Advanced Full Stack Developer Diploma at Mission Ready HQ in New Zealand. I'm passionate about building things for the web — from interactive games to full-stack applications.
+🚀 Full Stack Developer (in training) @ Mission Ready HQ, NZ
+💻 I build web apps, games, and full-stack projects
+🎯 Working towards becoming a high-level developer
 
----
+🧠 About Me
+⚡ I pick things up fast — if I see it once, I can use it
+🛠 I enjoy building real, working projects (not just tutorials)
+🎮 Into game dev + interactive systems
+🔥 Always trying to improve and stay consistent
+🧰 Tech Stack
+🎨 Frontend
 
-## 🛠 Tech Stack
+Tech I use:
 
-**Frontend:** React, JavaScript ES6+, HTML5, CSS3, CSS Modules
+⚛️ React
+🟨 JavaScript (ES6+)
+🌐 HTML5
+🎭 CSS3 / CSS Modules
 
-**Backend:** Node.js, Express, REST API Design & Development
 
-**Database:** MongoDB with Mongoose, MySQL
 
-**Tools:** Git & GitHub, Postman, VS Code, npm, Jira
 
----
 
-## 🌱 Currently Learning
 
-- Full stack application development
-- Agile methodologies and team-based workflows
-- AI integration in web development
 
----
 
-## 📬 Connect With Me
+⚙️ Backend
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kayde-denton-31395a380/)
-- 🐙 [GitHub](https://github.com/KaydeD)
+Tech I use:
 
----
+🟩 Node.js
+🚂 Express
+🔗 REST API development
 
+
+
+
+🗄️ Database
+
+Tech I use:
+
+🍃 MongoDB (Mongoose)
+🐬 MySQL
+
+
+
+
+🧪 Tools & Workflow
+
+What I work with:
+
+🧷 Git & GitHub
+📬 Postman
+💻 VS Code
+📦 npm
+📋 Jira
+
+📚 Currently Learning
+🤖 AI integration in web apps
+⚡ Advanced full stack architecture
+🤝 Agile + real-world workflows
+🌐 Connect
+💼 LinkedIn
+🐙 GitHub
 <div align="center">
-  <em>Always building. Always learning.</em>
+
+🔥 Consistency > Motivation 🔥
+
 </div>
