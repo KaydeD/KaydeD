@@ -16,15 +16,6 @@ I'm a developer currently completing the AI-Powered Advanced Full Stack Develope
 
 ---
 
-## 🚀 Projects
-
-- 🎮 **[Rock Clicker](https://github.com/KaydeD/RockClicker)** — A browser-based clicker game
-- 🤖 **[Chatbot Project](https://github.com/KaydeD/Chatbot-Project)** — A JavaScript-powered chatbot
-- 🌐 **[My Static Webpage](https://github.com/KaydeD/My-Static-Webpage)** — My first webpage
-- 💼 **[Portfolio](https://github.com/KaydeD/Portfolio)** — Personal portfolio site
-
----
-
 ## 🌱 Currently Learning
 
 - Full stack application development
